@@ -38,7 +38,7 @@
     <header class="header_section">
       <div class="container-fluid">
         <nav class="navbar navbar-expand-lg custom_nav-container">
-          <a class="navbar-brand" href="index.html">
+          <a class="navbar-brand" href="index.jsp">
             <img src="images/logo3.png" alt="" /><span>
               Morza
             </span>
@@ -333,7 +333,7 @@
             <div class="row">
               <div class="col-sm-6">
                 <div class="find_container-img">
-                  <img src="images/find-img.png" alt="" />
+                  <img src="images/goods.png" alt="" />
                 </div>
               </div>
               <div class="col-sm-6">
@@ -364,7 +364,7 @@
               </div>
               <div class="col-sm-6">
                 <div class="shoe_img-box">
-                  <img src="images/shoes.png" alt="" />
+                  <img src="images/snack2.png" alt="" />
                 </div>
               </div>
             </div>
